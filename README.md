@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on AI ML projects
+- 🌱 I’m currently learning Computer vision
+- 👯 I’m looking to collaborate on any AL ML projects
+- 💬 Ask me about ...
+- 📫 How to reach me: [...](https://www.linkedin.com/in/ashutosh-kedar/)
