@@ -50,6 +50,9 @@ Built image classification models using PyTorch and TinyVGG architectures.
 * Data Augmentation
 * Training Pipelines
 
+🔗 GitHub Repository:
+https://github.com/ashutosh-kedar/pytorch_cv_food_101_tiny_vgg
+
 ---
 
 ### Fashion MNIST Classification
@@ -61,6 +64,9 @@ Implemented and trained neural networks from scratch using PyTorch.
 * PyTorch Fundamentals
 * Model Evaluation
 * Training Loops
+
+🔗 GitHub Repository:
+https://github.com/ashutosh-kedar/fashion_mnist_classification
 
 ---
 
