@@ -71,6 +71,9 @@ Fine-tuned DistilBERT on a synthetic dataset generated using LLMs.
 🔗 GitHub Repository:
 https://github.com/ashutosh-kedar/food_not_food_distil_bert_uncase_fine_tuned
 
+🔗 Hugging Face Model:
+https://huggingface.co/ashutosh-kedar/finetuned_distil_bert_food_not_food_classification_model
+
 🔗 Live Demo:
 https://huggingface.co/spaces/ashutosh-kedar/HF_Food_Not_Food_Classifier_Demo
 
