@@ -1,8 +1,8 @@
 # Hi, I'm Ashutosh Kedar 👋
 
-Backend Engineer exploring Machine Learning, Deep Learning, Computer Vision, and LLMs.
+Backend Engineer transitioning into AI/ML by building end-to-end Machine Learning, Computer Vision, and LLM projects.
 
-Currently focused on understanding AI systems from first principles by building projects rather than only using APIs.
+Currently exploring the Hugging Face ecosystem, PyTorch, Transformer architectures, and MLOps while focusing on understanding how modern AI systems work under the hood.
 
 ---
 
@@ -18,6 +18,43 @@ Currently focused on understanding AI systems from first principles by building 
 ---
 
 ##  Featured Projects
+
+### RT-DETR v2 Object Detection Fine-Tuning
+
+Fine-tuned **RT-DETR v2** for custom object detection using the Hugging Face Transformers ecosystem.
+
+The model detects:
+
+* 🗑️ Trash
+* 🗑️ Bin
+* ✋ Hand
+
+Deployed the fine-tuned model as an interactive Gradio application on Hugging Face Spaces.
+
+**What I learned**
+
+* Object Detection
+* RT-DETR v2
+* Hugging Face Transformers
+* Hugging Face Datasets
+* TorchMetrics (mAP Evaluation)
+* Bounding Box Processing
+* Gradio Deployment
+* Hugging Face Hub
+
+🔗 GitHub Repository:
+https://github.com/ashutosh-kedar/RT-DETR-v2-Object-Detection-Fine-Tuning
+
+🔗 Hugging Face Model:
+https://huggingface.co/ashutosh-kedar/rt-detr-v2-finetuned-trash-hand-bin-bbox
+
+🔗 Live Demo:
+https://huggingface.co/spaces/ashutosh-kedar/ECO-VISION
+
+---
+
+
+
 
 ### Food vs Not Food Classifier
 
